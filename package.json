@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "tableGenerator.js",
+  "description": "Generates a contingent interest payment table and exports to docx.",
+  "scripts": {
+    "start": "node tableGenerator.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "docx": "^8.5.0"
+  }
+}
